@@ -17,7 +17,7 @@ body {
 .btn {
     color: white;
     background-color: rgba(236, 104, 44, 1);
-
+    font-size:18px;
     padding: 8px 20px 8px 20px;
     border-radius: 8px;
     border: 1px;
@@ -69,8 +69,6 @@ body {
 
 .btn1 {
     color: white;
-    background-color: rgba(75, 64, 197, 1);
-
     padding: 10px 27px 10px 27px;
     border-radius: 8px;
     border: 1px;
@@ -234,6 +232,9 @@ body {
     padding: 0px;
     border: 0px;
     line-height: 10px;
+}
+.section2{
+    padding-left: 40px;
 }
 
 .section2-nav1 {
@@ -643,7 +644,7 @@ span.text {
     height: 500px;
     margin-left: 25px;
     margin-right: 40px;
-    background-color: rgba(223, 215, 249, 1);
+    background-color: rgb(232, 233, 235);
     font-family: Poppins;
     font-size: 32px;
     font-weight: 600;
@@ -662,7 +663,7 @@ span.text {
 
 .btn1 {
     color: white;
-    background-color: rgba(236, 104, 44, 1);
+    background-color:rgba(75, 64, 197, 1);
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     height: 52px;
